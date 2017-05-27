@@ -1,13 +1,18 @@
 ---
 layout: page
-title: About This Blog & Me
+title: about this blog and a me
 permalink: /about/
 ---
 
-### Blog Background
+### info
+I also publish a food blog. Its all my recipes that I try to capture and share.
 
-[Check This Initial Post](http://blog.pennyblack.io/Another-Day-Another-Blog/)
+[My Foodz](http://www.pennyblack.io)
 
-### Contact me
+### blog background
+
+[my agreement or commitment to this blog ](http://blog.pennyblack.io/Another-Day-Another-Blog/)
+
+### bontact me
 
 [jbasalone at gmail.com](mailto:jbasalone@gmail.com)
