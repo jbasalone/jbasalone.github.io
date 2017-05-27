@@ -14,6 +14,7 @@ I have never really thought about blogging too much. I mean I put so much garbag
 5. accessibility should be a priority for anyone to read, including myself.
 6. I will not learn css
 
+
 # what this blog is
 
 1. articles about what I've learned; technology, about myself, about the world around me
@@ -22,3 +23,4 @@ I have never really thought about blogging too much. I mean I put so much garbag
 5. traveling info and updates
 6. there will be stuff about food
 7. void of css I wrote or have to write
+8. void of the ability for you to add comments. nope. nope. nope. Otherwise, why not just point you to livejournal. 
