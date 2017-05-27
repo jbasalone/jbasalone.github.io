@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About This Blog & Me
 permalink: /about/
 ---
 
-## About This Blog
+### Blog Background
 
 [Check This Initial Post](http://blog.pennyblack.io/Another-Day-Another-Blog/)
 
