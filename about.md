@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 ### info
-I also publish a food blog. Its all my recipes that I try to capture and share.
 
-[My Foodz](http://www.pennyblack.io)
 
 ### blog background
 
