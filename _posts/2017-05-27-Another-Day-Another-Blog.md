@@ -3,7 +3,7 @@ layout: post
 title: a new day and new blog
 ---
 
-I have never really thought about blogging too much. I mean I put so much garbage out in the world between twitter, facebook, livejournal (im old), etc. Do I really need another place for a voice? Well maybe I should start with my Agreement to myself and start out with what this blog will not be.
+I have never really thought about blogging too much. I mean... I put so much garbage out in the world between twitter, facebook, livejournal (im old), etc. Do I really need another place for a voice? Well.. maybe I should start with my Agreement to myself? I'll start out with what this blog will not be and see what happens from there. 
 
 # what this blog is not
 
@@ -23,4 +23,4 @@ I have never really thought about blogging too much. I mean I put so much garbag
 5. traveling info and updates
 6. there will be stuff about food
 7. void of css I wrote or have to write
-8. void of the ability for you to add comments. nope. nope. nope. Otherwise, why not just point you to livejournal. 
+8. void of the ability for you to add comments. nope. nope. nope. Otherwise, why not just point you to livejournal.
