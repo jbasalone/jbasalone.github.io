@@ -21,4 +21,4 @@ I have never really thought about blogging too much. I mean I put so much garbag
 3. contains zero regard for potentially harming my own personal branding
 5. traveling info and updates
 6. there will be stuff about food
-7. void of css 
+7. void of css I wrote or have to write
