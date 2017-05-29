@@ -1,6 +1,6 @@
 ---
 layout: post
-title: walking typist
+title: Late Night Treadmill Musings
 ---
 
 Current Pace: 16:00 Miles
