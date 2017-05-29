@@ -54,7 +54,7 @@ Susan Fowler is getting a similar response now; "no else is complaining". We as 
 
 I had several opportunities at my door at this time. A big opportunity was internal and two were external. But regardless, the listed out response above tasted like battery acid and made my decision for me.
 
-Whether I had a job or not, was I going to tolerate this? I was already not providing impact and loosing passion and further more, I deserved better. So I quit.
+Whether I had a job lined up or not, was I going to tolerate this? I was already not providing impact and loosing passion and further more, I deserved better. So I quit.
 
 Don't Be An Asshole, Be Amazing
 ===
