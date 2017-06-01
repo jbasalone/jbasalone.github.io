@@ -3,7 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-### info
 
 Pronounds are: She/Her 
 
@@ -17,6 +16,6 @@ If you are person who is under stress, need support, being harassesed or bullied
 
 [my agreement or commitment to this blog ](http://blog.pennyblack.io/Another-Day-Another-Blog/)
 
-### bontact me
+### contact me
 
 [jbasalone at gmail.com](mailto:jbasalone@gmail.com)
