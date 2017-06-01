@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Be An Asshole: Women in Tech
+title: Don't Be An Asshole
 ---
 
 Current Pace: 16:00 Miles
