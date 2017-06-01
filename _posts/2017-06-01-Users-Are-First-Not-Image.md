@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Users First, Brand Second in Security Breaches
+title: Put Users First, Not Brand in Security Breaches
 ---
 
 Today [OneLogin announced a massive breach](https://krebsonsecurity.com/2017/06/onelogin-breach-exposed-ability-to-decrypt-data/) that was filled with vagueness and lack of clear understanding. OneLogin provided three different sets of information to its users, but the first notice was provided last night only if you logged into your account.
