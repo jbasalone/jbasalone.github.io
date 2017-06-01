@@ -4,8 +4,6 @@ permalink: /about/
 ---
 
 
-Pronounds are: She/Her 
-
 I have been working in the IT industry for over 20 years. I first started as a webmaster building frontpage sites and managing Domain Registrations and DNS. I have worked at startups and hyperscale companies that include NTT, OpenDNS, and Facebook.
 
 I love python, teaching women how to code python, Infrastructure, Lean/Modern Agile, and cats. 
