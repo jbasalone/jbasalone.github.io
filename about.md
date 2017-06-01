@@ -1,6 +1,5 @@
 ---
 layout: page
-title: about this blog and a me
 permalink: /about/
 ---
 
