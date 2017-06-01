@@ -17,6 +17,6 @@ In everything you do, from company messaging to software development, users are 
 
 Many articles talk about "users first". Examples of companies that put users first; Facebook, Twitter, Google. While our most common brands are on these services now, they didn't start out that way. Their only assets were their users and without them, even today, the brands leave.
 
-If you are doing content, product development, and/or messaging for your brand first or any other brand, you end up sending that message to user that you are servicing the brand first, and not the user.
+If you are doing content, product development, and/or messaging for your brand first, you will end up sending the message to users that you are servicing the brand first and not them.
 
 I still don't know which information on the OneLogin breach is real. This manner of notification to it's users, will stop me from ever being a OneLogin user. Not because of a breach, but because its apparent, their own brand is more valuable than me.
