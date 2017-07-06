@@ -2,59 +2,87 @@
 layout: post
 title: Retrospective and Futurespective Techniques
 ---
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Retrospective Overview](#retrospective-overview)
+- [Setting The Stage](#setting-the-stage)
+	- [ESVP](#esvp)
+	- [Weather Report](#weather-report)
+	- [Emoticon Project Gauge](#emoticon-project-gauge)
+	- [Outcome Expectations](#outcome-expectations)
+	- [Coffee Talk](#coffee-talk)
+	- [What to do if Safety Is Low](#what-to-do-if-safety-is-low)
+		- [Generating Safety](#generating-safety)
+			- [Think It Then Ink It](#think-it-then-ink-it)
+			- [Making Toast](#making-toast)
+			- [Squiggle Birds](#squiggle-birds)
+			- [Fire Extinguisher](#fire-extinguisher)
+			- [Writing the Unspeakable](#writing-the-unspeakable)
+- [Generating Data](#generating-data)
+	- [ValueStream Mapping](#valuestream-mapping)
+	- [Sprint Log](#sprint-log)
+	- [Generating Insights](#generating-insights)
+	- [Original Retrospective Four](#original-retrospective-four)
+	- [Granting Wishes](#granting-wishes)
+	- [FLAP Process](#flap-process)
+	- [Break Up Letter](#break-up-letter)
+	- [Box of Insights](#box-of-insights)
+	- [Generate Action](#generate-action)
+- [Decision Games and Techniques](#decision-games-and-techniques)
+	- [Dot Voting](#dot-voting)
+	- [Action Caption](#action-caption)
+	- [All Thumbs](#all-thumbs)
+- [Closing the Retrospective](#closing-the-retrospective)
+	- [Take it Back](#take-it-back)
+	- [SAMOLO](#samolo)
+	- [Note To Self](#note-to-self)
+	- [Do You Have Good Follow Through?](#do-you-have-good-follow-through)
+- [Futurespective Overview](#futurespective-overview)
+	- [Futurespective Prime Directive](#futurespective-prime-directive)
+	- [Likelihood vs Impact](#likelihood-vs-impact)
+	- [Managing Outcomes](#managing-outcomes)
+	- [Defining Nirvana](#defining-nirvana)
+	- [I Have a Dream](#i-have-a-dream)
+	- [Definition of Done](#definition-of-done)
 
-**
+<!-- /TOC -->
 
-Retrospective and Futurespective Techniques
-===========================================
-
-**
  "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand." — Norm Kerth
- 
 
-Retrospective Overview
-----------------------
+# Retrospective Overview
 
- Retrospectives should not be a forum to gripe, blame, shame or otherwise generally complain with no action. The key ingredient to any technique is walking into a retrospective knowing that every person did the best they could with the information and tools they had. The goal is to learn and identify the areas to improve information, tools, and safety through cooperation and sharing as a team.  Once we work as a team, we become more effective and successful. 
+ Retrospectives should not be a forum to gripe, blame, shame or otherwise generally complain with no action. The key ingredient to any technique is walking into a retrospective knowing that every person did the best they could with the information and tools they had. The goal is to learn and identify the areas to improve information, tools, and safety through cooperation and sharing as a team.  Once we work as a team, we become more effective and successful.
 
 
   - Value Definition: Retrospectives deliver many benefits: They give power to teams, enable teams to do their own actions and to do sustainable improvement.
 
- 
-
-Below are some different methods to Set the Stage, Generate Ideas, Generate Insights, Decision Helpers, and Closing a Retrospective 
- 
-
-Setting The Stage
-=================
-
-Often before larger retrospectives, it is a good opportunity to check the safety level of the team. Engineering Safety involves preventing and/or breaking a cycle of mistrust. Removing negative assumptions and self-protective behavior is critical. Cycles of mistrust start from poor communication, negative assumptions, and lack of shared understanding.  Doing a ‘temperature’ check, particularly before sensitive retros, can help you understand the level of mistrust. When safety is low, feedback is minimal if given.  So doing a few checks can help improve the safety relatively quickly. 
 
 
-ESVP
-----
+Below are some different methods to Set the Stage, Generate Ideas, Generate Insights, Decision Helpers, and Closing a Retrospective
 
-Create a quadrant with areas for E, S, V, P. 
+# Setting The Stage
+
+
+Often before larger retrospectives, it is a good opportunity to check the safety level of the team. Engineering Safety involves preventing and/or breaking a cycle of mistrust. Removing negative assumptions and self-protective behavior is critical. Cycles of mistrust start from poor communication, negative assumptions, and lack of shared understanding.  Doing a ‘temperature’ check, particularly before sensitive retros, can help you understand the level of mistrust. When safety is low, feedback is minimal if given.  So doing a few checks can help improve the safety relatively quickly.
+
+## ESVP
+
+Create a quadrant with areas for E, S, V, P.
 
 - Explorer: Eager to dive in and research what did and didn't work and how to improve.
 - Shopper: Positive attitude. Happy if one good things comes out.
 - Vacationer: Reluctant to actively take part but the retro beats the regular work.
 - Prisoner: Only attend because they (feel they) must.
- 
+
  Take an anonymous poll (I use post-its) and count the answers. Place the post-its in the quadrant to help visually see if the safety is low or high. If safety is low, destroy all the votes afterwards to ensure privacy. Ask for feedback on the data that was collected. If you have a ton of Vacationers or Prisoners, Id focus the retro to discuss that. Nothing will be more important to discuss, no status update or progress check will be more important than digging into why the trust level is low on the team.
- 
- 
- 
-
-Weather Report
---------------
-
-Using drawings of different types of weather, or use the words in columns for ‘rain’, ‘thunder’, ‘sunshine’, and ‘clouds’.  Have the team put a sticky note on how they felt the sprint went. You can do this anonymously and have it indicated if you have low safety.  If the weather is bad, focus on driving what action items could be taken to immediately improve the sprint/retro focus. 
 
 
-Emoticon Project Gauge
-----------------------
+
+## Weather Report
+
+Using drawings of different types of weather, or use the words in columns for ‘rain’, ‘thunder’, ‘sunshine’, and ‘clouds’.  Have the team put a sticky note on how they felt the sprint went. You can do this anonymously and have it indicated if you have low safety.  If the weather is bad, focus on driving what action items could be taken to immediately improve the sprint/retro focus.
+
+## Emoticon Project Gauge
 
 Help team members express their feelings about a project and address root causes early. Prepare a flipchart, notecards, or stickies (or digital equivalent) with faces expressing various emotions such as:
 
@@ -68,9 +96,8 @@ Help team members express their feelings about a project and address root causes
 
 Let each team member choose how they feel about the project. This is a fun and effective way to surface problems early.
 
+## Outcome Expectations
 
-Outcome Expectations
---------------------
 
 Everyone on the team states their goal for this meeting. Ideally, what they want out of the meeting. Examples of what participants might say:
 
@@ -80,15 +107,14 @@ Everyone on the team states their goal for this meeting. Ideally, what they want
 
 If someone doesn't know what they want from the meeting, they are free to leave it with the support to do so.
 
-If the meeting is off topic and or lulls, the organizer should ask ‘Are we in alignment with the goals’.  Each attendee says they are a number from 1 to 10, where he or she is in getting their what they want or their goal.  Lowest score leads the meeting. 10s have an option to leave. 
+If the meeting is off topic and or lulls, the organizer should ask ‘Are we in alignment with the goals’.  Each attendee says they are a number from 1 to 10, where he or she is in getting their what they want or their goal.  Lowest score leads the meeting. 10s have an option to leave.
 
 
-1. Have a measurable, desired outcome for your meeting 
+1. Have a measurable, desired outcome for your meeting
 2. hold everyone accountable for getting their goal
-3. pursue only one ‘want’ or goal at a time 
+3. pursue only one ‘want’ or goal at a time
 
-
-Coffee Talk
+## Coffee Talk
 -----------
 
 Lean Coffee is a technique that helps teams arrive at consensus quickly on topics they would like to discuss. It is also easy to set up and facilitate. The only prerequisites that are needed:
@@ -111,26 +137,25 @@ How to Play:
 
 One of the most appealing aspects of Lean Coffee is the extent to which it empowers the participants by providing a framework that helps them rapidly frame the direction of the discussions. In lieu of someone else determining the agenda, the team gets to make that decision. Participants can determine how much or how little they participate in each topic being discussed. In addition, participants are free to come and go as they please.
 
-What to do if Safety Is Low
+## What to do if Safety Is Low
 ---------------------------
 
-If Safety is high, theres nothing you can do but move forward and progress. When safety is low, its important to take the time to figure out how to improve it.  Low safety has a serious impact on any retrospective and will skew any result. 
+If Safety is high, theres nothing you can do but move forward and progress. When safety is low, its important to take the time to figure out how to improve it.  Low safety has a serious impact on any retrospective and will skew any result.
 
-Many people don’t want to share the score so they can run the meeting accordingly. This also helps respect the anonymity of everyones results. The drawback is that only the facilitator then knows the safety is low. People can feel isolated, not represented, and may not recover. You would have to deal with the individual at this point and not the team. I prefer more transparency and encourage it.  If there are low scores, ask the team collectively what they think will change it. 
+Many people don’t want to share the score so they can run the meeting accordingly. This also helps respect the anonymity of everyones results. The drawback is that only the facilitator then knows the safety is low. People can feel isolated, not represented, and may not recover. You would have to deal with the individual at this point and not the team. I prefer more transparency and encourage it.  If there are low scores, ask the team collectively what they think will change it.
 
-One thing you can do immediately is explain the purpose of the retrospective and reassure the team that everything stays in the room with the team.  Remind the team the retrospective is to learn so we start with the assumption everyone did the best job possible during the sprint. 
+One thing you can do immediately is explain the purpose of the retrospective and reassure the team that everything stays in the room with the team.  Remind the team the retrospective is to learn so we start with the assumption everyone did the best job possible during the sprint.
 
-If its one bad score, there is not much you can do as a facilitator. Since it should be anonymous, there’s little you can do to help the one person. I would just be considerate that one person does not feel safe and look for signs to avoid certain topics. 
+If its one bad score, there is not much you can do as a facilitator. Since it should be anonymous, there’s little you can do to help the one person. I would just be considerate that one person does not feel safe and look for signs to avoid certain topics.
 
-You can do some of the below exercises to improve safety. Once you are finished, recheck the level of safety and see if there is improvement.  If not, often just focusing on Team Kudos and how they received help from each other and change the course of the retrospective and improve the safety. 
+You can do some of the below exercises to improve safety. Once you are finished, recheck the level of safety and see if there is improvement.  If not, often just focusing on Team Kudos and how they received help from each other and change the course of the retrospective and improve the safety.
 
-Never ignore low engineering safety levels, regardless if they are made clear. If someone is silent, try to involve them. If you get the feeling that someone isn't open or honest, state that there is still low safety and work to resolve it. 
+Never ignore low engineering safety levels, regardless if they are made clear. If someone is silent, try to involve them. If you get the feeling that someone isn't open or honest, state that there is still low safety and work to resolve it.
 
-
-Generating Safety
+### Generating Safety
 --------------------
 
-Think It Then Ink It
+#### Think It Then Ink It
 --------------
 
 Think about what you already know about a given topic.
@@ -138,8 +163,7 @@ On an index form or other easy-to-share form of media, write down three facts ab
 Share what you've written down with other people in your group/your team.
 Put all of the observations in the middle of a table or tape them on a wall. Identify any discrepancies among "facts."
 
-
-Making Toast
+#### Making Toast
 ------------
 
 
@@ -164,8 +188,7 @@ Depending on your reasons for facilitating this game, you might want to point ou
 - Observe that although the drawings are different, they are fundamentally correct. That is, there are many ways to visualize information and they all enrich understanding rather than being “right” or “wrong.”
 - Observe that although the drawings are different in content, they tend to be similar in structure. Based on this and similar activities, people who draw mental models tend to depict from three to seven elements, connected by lines or arrows.
 
-
-Squiggle Birds
+#### Squiggle Birds
 --------------
 
 Overview:
@@ -179,18 +202,16 @@ How to Play:
 - Ask each person to add those same basic bird elements to the rest of the squiggly lines that they drew.
 - Facilitate a conversation about how even the simplest of drawings can effectively communicate an idea.
 
-
-Fire Extinguisher
+#### Fire Extinguisher
 -----------------
 
 1. Ask for insights on what could be bringing the safety down. You can ask with a question like ‘Put yourself in the shoes of someone who may not be feeling safe, what could be the causes? Write it down on a post it and place it on the board’
-2. Create an affinity group for the cause 
+2. Create an affinity group for the cause
 3. ask the participant for ideas on how to improve it. ‘How could you overcome these causes on the board? Place the answer on a different color post-it and place it next to the problems’.
-4. Read the notes and have a guided conversation on them. 
+4. Read the notes and have a guided conversation on them.
 5. Re-Run the Safety Check
 
-
-Writing the Unspeakable
+#### Writing the Unspeakable
 -----------------
 
 Do you suspect that unspoken issues may be driving down safety? Consider a silent activity, where you first stress confidentiality ('What happens in Vegas stays in Vegas'), including stating that all notes from this activity will be destroyed.
@@ -198,24 +219,21 @@ Ask each participant to write down the biggest unspoken taboo in the company.
 When everyone's done, they pass what they wrote to the person on their left. The person on the left silently reads and may silently write comments. Keep passing until each item is back with the person who first wrote it.
 After everyone reads all the comments, the pages are collected and destroyed.
 
-
-Generating Data
+# Generating Data
 --------------------
-Speedboat 
+Speedboat
 
-Draw a speedboat onto a flip chart paper. Give it a strong motor as well as a heavy anchor. Team members silently write on sticky notes what propelled the team forward and what kept it in place. One idea per note. Post the stickies motor and anchor respectively. Read out each one and discuss how you can increase the motor and cut ⚓️ 
+Draw a speedboat onto a flip chart paper. Give it a strong motor as well as a heavy anchor. Team members silently write on sticky notes what propelled the team forward and what kept it in place. One idea per note. Post the stickies motor and anchor respectively. Read out each one and discuss how you can increase the motor and cut ⚓️
 
-
-ValueStream Mapping
+## ValueStream Mapping
 -------------------
 
 Ask the team to draw a value stream map of the process they follow from start to finish to complete a single user story. If necessary, ask them to break into small groups, and facilitate the process if they need it.
 Look at the finished map. Where are long delays, choke points and bottlenecks?
 Unfamiliar with ValueStream Mapping? Here’s a Video
 
+## Sprint Log
 
-Sprint Log
-----------
 
 Based on the sprint that just ended or whatever subject/release you are discussing,  have each team member silently write down their answer to one or more of the following questions:
 
@@ -223,35 +241,30 @@ Based on the sprint that just ended or whatever subject/release you are discussi
 - What do you know now that you did not know when the sprint/project/release started?
 - How would you summarize your experiences during the sprint/project/release that just ended, if you were speaking with a young child?
 
+## Generating Insights
 
-Generating Insights
--------------------
+## Original Retrospective Four
 
-Original Retrospective Four
-----------
 
-From Norm Kerth, Use the following four questions to focus your team on. 
+From Norm Kerth, Use the following four questions to focus your team on.
 
 - What did we do well, that if we didn’t discuss we might forget?
 - What did we learn?
 - What should we do differently next time?
 - What still puzzles us?
 
+## Granting Wishes
 
-Granting Wishes
-----------
 
 Ask the team to silently ponder the following question:
 
 
-1. 'A fairy grants you a wish that will fix your biggest problem at work overnight. What do you wish for?' 
+1. 'A fairy grants you a wish that will fix your biggest problem at work overnight. What do you wish for?'
 2. 'You come to work the next morning with the wish granted, How do you know? What is different now?'
 
 If you feel that the team feels safe in sharing these observations openly, discuss the team's observations. Alternatively, ask the team members to keep their answers in mind without verbalizing them as you move on to decide what to do during the next sprint.
 
-
-FLAP Process
-----------
+## FLAP Process
 
 1. Prepare and explain the FLAP canvas quadrants:
   1. Future Considerations: Things that we'll need to think about/focus on next sprint or in the not-too-distant future.
@@ -268,15 +281,13 @@ FLAP Process
 
 3. Ask the team members to place their observations on post-its in the appropriate quadrants, then discuss as a group.
 
-
-Break Up Letter
-----------
-
-Borrowed from the Smart Design community, this helps people with emotional connections they have to products, services, and experiences. In this context, you should place emphasis on processes and experiences.  This can help people who may have gotten in a rut with retrospectives and need a mixup.  As people to write a ‘breakup letter’ to a particular process or practice that has been determined to no longer add value.  You can also flip this and write a love letter 
+## Break Up Letter
 
 
-Box of Insights
-----------
+Borrowed from the Smart Design community, this helps people with emotional connections they have to products, services, and experiences. In this context, you should place emphasis on processes and experiences.  This can help people who may have gotten in a rut with retrospectives and need a mixup.  As people to write a ‘breakup letter’ to a particular process or practice that has been determined to no longer add value.  You can also flip this and write a love letter
+
+## Box of Insights
+
 
 Using a virtual representation of a box (or a physical box), suppose that all of the things we've done in a team context over the last couple of sprints are inside of this box. Let's take a look at what's inside the box. At this point, list examples of the types of work that was done during the sprint.
 Based on the list of things we just came up with, and thinking more broadly about any other team or teams we may be on, let's unpack the box and decide:
@@ -285,9 +296,8 @@ Based on the list of things we just came up with, and thinking more broadly abou
 - Leave In. Which things should we leave in the box, so that we continue doing them?
 - Put In. Which things should we add to the box, i.e., start doing them?
 
+## Generate Action
 
-Generate Action
-----------
 
 Pose a central question for the team members to answer, such as 'What actions should we take in the next sprint to improve?'.
 Ask each team member to silently write their answer to the question.
@@ -295,23 +305,20 @@ After about 3 minutes, ask each person to pass what they wrote to the person on 
 Continue to pass and repeat the same process until each person has what they originally wrote in hand.
 Have each person read all of the entries, discuss as a group, and use a prioritization technique to decide which things to focus on during the next sprint.
 
+# Decision Games and Techniques
 
-Decision Games and Techniques
------------------------------
 
- 
-Dot Voting
-----------
+## Dot Voting
+
 
 Draw an area with three sections, with the headings Start, Stop, and Continue.
-At this point you can either leverage conversations you have had from earlier in the retrospective, or you can set aside a block of time for team members to write silently. 
+At this point you can either leverage conversations you have had from earlier in the retrospective, or you can set aside a block of time for team members to write silently.
 Ask the team to arrange their notes into the appropriate categories. Facilitate a conversation about what is in each category.
 Use "dot voting," where each person gets three votes, represented by dots or if you are remote, add a ✅ on the items they think are most important to focus on during the next sprint. Votes can all be cast on a single item, or the can be distributed across multiple items.
 
+## Action Caption
 
-Action Caption
-----------
- 
+
 1. Start by drawing a large 2×2 matrix with a square labeled “Actions” in the middle; this is designated for the changes that the team commits to making as a result of the retrospective. The four quadrants surrounding it represent different aspects of your retrospectives:
 - Puzzles: Questions for which you have no answer
 - Risks: Future pitfalls that can endanger the event
@@ -321,9 +328,8 @@ Action Caption
 3. Once players have written all their thoughts, ask them to post their notes on the chart. As a team, go through the ideas and cluster related ones together.
 4. Discuss the novelty, feasibility, and impact of the ideas, and collaborate to analyze how they can be applied to the next event. Use this process to create practical, efficient “Actions” in the middle.
 
+## All Thumbs
 
-All Thumbs
-----------
 
 Thumbs is the easiest of all of the games when it comes to checking for consensus.
 Number of Players: This technique works well with teams of any size.
@@ -335,50 +341,37 @@ Thumbs Up: I strongly support this idea.
 Thumbs Down: I cannot live with this idea and have concerns that must be heard by the group before we move forward.
 If there are no thumbs down, this is a reasonably strong indicator that the team is comfortable with moving forward. However, before doing so, make sure you understand what motivated anyone with a Thumbs to the Side vote to feel lukewarm about the idea.
 
-Closing the Retrospective
--------------------------
+# Closing the Retrospective
 
-Take it Back
-----------
-
+## Take it Back
 Everyone writes a note with the most remarkable thing they learned during the retro. Put the notes in a visible place. In turn each participant reads out their own note.
+## SAMOLO
 
-
-SAMOLO
-----------
 
 The purpose of SaMoLo (Same of, More of, Less of) is to ask the team for feedback on how you're doing as a facilitator.
 Create a matrix with three columns, with the headings Same of, More of, Less of.
 Ask each team member to write individual notes to give you feedback (you can stay in the room and talk about it as a group when everyone is done, or you can leave the room and come back when they're done, or ask them to provide the feedback offline, if you prefer).
 
-
-Note To Self
-----------
+## Note To Self
 
 While retrospective activities generally focus on the entire team, this activity gives participants an opportunity to think about a specific take-away from the retrospective that they want to be sure they think about.
 Steps:
 
 - Give the participants one minute to reflect upon the discussion that has just ended.
 - Have each person write a note to self about something he/she wants to keep in a visible place as a reminder for the next week
+## Do You Have Good Follow Through?
 
-
-Do You Have Good Follow Through?
-----------
 
 Draw a scale, labeled 'Probability we'll implement our action items'. Mark '0%' on the left and '100%' on the right.
 Ask everyone to draw an emoticon of their current mood. Ask everyone to place their emoticon on the scale, to indicate their confidence that there will be follow through on the action items.
 Discuss what the results indicate.
 
-
-Futurespective Overview
-=======================
+# Futurespective Overview
 
 From time to time, it can be helpful to flip the script, and rather than thinking back on what occurred over the most recent sprint or iteration, instead to take a forward-thinking approach.
 This type of activity can be particularly helpful if the team has plans to conduct (or already has conducted) a visioning or chartering activity. Similar to a Retrospective, Futurespectives can help teams reach their goals and agree how they will get there.
 
-
-Futurespective Prime Directive
-----------
+## Futurespective Prime Directive
 
 Much as their is a prime directive for retrospectives in general, consider this prime directive, written with a forward-thinking mindset:
 
@@ -386,8 +379,7 @@ Much as their is a prime directive for retrospectives in general, consider this 
 
 If you find yourself in a situation where you are working with a newly-formed team, or with a team (whether new or not) that is about to work on a feature set that is relatively unfamiliar, Likelihood vs Impact is a technique that you might find helpful. Given that this is a forward-leaning technique, it is best suited for a "futurespective" conversation.
 
-Likelihood vs Impact
-----------
+## Likelihood vs Impact
 
 How to Facilitate
 Consider framing the conversation something like this:
@@ -405,15 +397,14 @@ Once you have an initial list of items, ask the team to score each one in terms 
 - L1, I1. Low Likelihood, Low Impact
 - L1, I5. Low Likelihood, High Impact
 
-Managing Outcomes
-----------
+## Managing Outcomes
 
 Once you’ve assigned your scores, you will have many options in terms of what to do with this data. For instance, you could:
 
 - Arrange the items out in a matrix, with the Likelihood on one axis, and the Impact on the other axis
 - Assign Action Items or next steps (as you would in a retrospective context, for instance)
 
-Defining Nirvana
+## Defining Nirvana
 For the purposes of this activity, choose a time frame -- for instance, the next 3 months, or the next six months.
 Ask each participant to:
 
@@ -421,20 +412,18 @@ Ask each participant to:
 - Have each person read their sentence to the rest of the group.
 - Try to come up with a single statement (or possibly more than one) that reasonably summarizes the team nirvana state
 
-I Have a Dream
-----------
+## I Have a Dream
 - Draw a vertical line, with one side labeled "Hopes" and the other side labeled "Concerns"
 - Ask the participants to write down their hopes and concerns for the sprint that is about to begin
-- Discuss visible patterns in either categories 
+- Discuss visible patterns in either categories
 
-Definition of Done
-----------
+## Definition of Done
 
 Definition of ‘Done’  can be different for different teams and may be called ‘Acceptance Criteria’. Having this criteria is a contract that limits misunderstanding and conflict between the customer and the team. They can limit the rework of a feature once it has been accepted and can guide discussion, estimation, and design.  The DoD is not a shared understanding but explicit.
 
-There are various factors which influence whether a given activity belongs in the DoD for a feature, a sprint or a release.   Either the team does not have the skillset to incorporate activities, the right set of tools, or sprints are actual waterfalls. 
+There are various factors which influence whether a given activity belongs in the DoD for a feature, a sprint or a release.   Either the team does not have the skillset to incorporate activities, the right set of tools, or sprints are actual waterfalls.
 
-Definition of Done is not static and shouldn't be treated that way. It changes over time as the organization does.  Defining one is up to you but don’t assert the functionality of a feature, focus on the value-add of the story. DoD is informed by reality where it captures the activities that can be realistically committed by the team to be completed. 
+Definition of Done is not static and shouldn't be treated that way. It changes over time as the organization does.  Defining one is up to you but don’t assert the functionality of a feature, focus on the value-add of the story. DoD is informed by reality where it captures the activities that can be realistically committed by the team to be completed.
 
 Example:
 
@@ -445,4 +434,3 @@ Example:
 5. Feature passes smoke test
 6. Feature is documented
 8. Feature ok-ed by Product Owner
-
