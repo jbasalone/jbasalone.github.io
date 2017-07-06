@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a new day and new blog
+title: Retrospective and Futurespective Techniques
 ---
 
 
