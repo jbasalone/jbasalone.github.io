@@ -19,6 +19,7 @@ title: Retrospective and Futurespective Techniques
 			- [Fire Extinguisher](#fire-extinguisher)
 			- [Writing the Unspeakable](#writing-the-unspeakable)
 - [Generating Data](#generating-data)
+	- [Speedboat](#speedboat)
 	- [ValueStream Mapping](#valuestream-mapping)
 	- [Sprint Log](#sprint-log)
 	- [Generating Insights](#generating-insights)
@@ -115,7 +116,7 @@ If the meeting is off topic and or lulls, the organizer should ask ‘Are we in 
 3. pursue only one ‘want’ or goal at a time
 
 ## Coffee Talk
------------
+
 
 Lean Coffee is a technique that helps teams arrive at consensus quickly on topics they would like to discuss. It is also easy to set up and facilitate. The only prerequisites that are needed:
 
@@ -138,7 +139,6 @@ How to Play:
 One of the most appealing aspects of Lean Coffee is the extent to which it empowers the participants by providing a framework that helps them rapidly frame the direction of the discussions. In lieu of someone else determining the agenda, the team gets to make that decision. Participants can determine how much or how little they participate in each topic being discussed. In addition, participants are free to come and go as they please.
 
 ## What to do if Safety Is Low
----------------------------
 
 If Safety is high, theres nothing you can do but move forward and progress. When safety is low, its important to take the time to figure out how to improve it.  Low safety has a serious impact on any retrospective and will skew any result.
 
@@ -153,10 +153,9 @@ You can do some of the below exercises to improve safety. Once you are finished,
 Never ignore low engineering safety levels, regardless if they are made clear. If someone is silent, try to involve them. If you get the feeling that someone isn't open or honest, state that there is still low safety and work to resolve it.
 
 ### Generating Safety
---------------------
+
 
 #### Think It Then Ink It
---------------
 
 Think about what you already know about a given topic.
 On an index form or other easy-to-share form of media, write down three facts about the topic.
@@ -164,7 +163,6 @@ Share what you've written down with other people in your group/your team.
 Put all of the observations in the middle of a table or tape them on a wall. Identify any discrepancies among "facts."
 
 #### Making Toast
-------------
 
 
 
@@ -189,7 +187,6 @@ Depending on your reasons for facilitating this game, you might want to point ou
 - Observe that although the drawings are different in content, they tend to be similar in structure. Based on this and similar activities, people who draw mental models tend to depict from three to seven elements, connected by lines or arrows.
 
 #### Squiggle Birds
---------------
 
 Overview:
 Squiggle birds is a simple way to encourage people to exercise their visual thinking muscles.
@@ -203,7 +200,6 @@ How to Play:
 - Facilitate a conversation about how even the simplest of drawings can effectively communicate an idea.
 
 #### Fire Extinguisher
------------------
 
 1. Ask for insights on what could be bringing the safety down. You can ask with a question like ‘Put yourself in the shoes of someone who may not be feeling safe, what could be the causes? Write it down on a post it and place it on the board’
 2. Create an affinity group for the cause
@@ -212,7 +208,6 @@ How to Play:
 5. Re-Run the Safety Check
 
 #### Writing the Unspeakable
------------------
 
 Do you suspect that unspoken issues may be driving down safety? Consider a silent activity, where you first stress confidentiality ('What happens in Vegas stays in Vegas'), including stating that all notes from this activity will be destroyed.
 Ask each participant to write down the biggest unspoken taboo in the company.
@@ -220,13 +215,13 @@ When everyone's done, they pass what they wrote to the person on their left. The
 After everyone reads all the comments, the pages are collected and destroyed.
 
 # Generating Data
---------------------
-Speedboat
+
+## Speedboat
 
 Draw a speedboat onto a flip chart paper. Give it a strong motor as well as a heavy anchor. Team members silently write on sticky notes what propelled the team forward and what kept it in place. One idea per note. Post the stickies motor and anchor respectively. Read out each one and discuss how you can increase the motor and cut ⚓️
 
 ## ValueStream Mapping
--------------------
+
 
 Ask the team to draw a value stream map of the process they follow from start to finish to complete a single user story. If necessary, ask them to break into small groups, and facilitate the process if they need it.
 Look at the finished map. Where are long delays, choke points and bottlenecks?
