@@ -2,6 +2,8 @@
 layout: post
 title: Retrospective and Futurespective Techniques
 ---
+ "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand." — Norm Kerth
+
 <meta name="twitter:title" content="Retrospective and Futurespective Techniques"/>
 <meta name="twitter:image" content="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAOGAAAAJGU5YzVmYWRlLTEzNjYtNDViOC1iNDJlLWRkNzVmMWIzYTAxMg.png">
 <meta name="twitter:url" content="https://blog.pennyblack.io"/>
@@ -25,7 +27,6 @@ title: Retrospective and Futurespective Techniques
   ga('send', 'pageview');
 
 </script>
- "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand." — Norm Kerth
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
