@@ -2,6 +2,29 @@
 layout: post
 title: Retrospective and Futurespective Techniques
 ---
+<meta name="twitter:title" content="Retrospective and Futurespective Techniques"/>
+<meta name="twitter:image" content="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAOGAAAAJGU5YzVmYWRlLTEzNjYtNDViOC1iNDJlLWRkNzVmMWIzYTAxMg.png">
+<meta name="twitter:url" content="https://blog.pennyblack.io"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Techniques for running modern Agile and Lean Retrospective and Futurespectives">
+<meta property="og:url"  content="http://blog.pennyblack.io"/>
+<meta property="og:type" content ="article"/>
+<meta property="og:title" content="Retrospective and Futurespective Techniques">
+<meta property="og:description" content="Techniques for running modern Agile and lean Retrospective and Futurespectives">
+<meta property="og:image" content="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAOGAAAAJGU5YzVmYWRlLTEzNjYtNDViOC1iNDJlLWRkNzVmMWIzYTAxMg.png">
+<meta property="og:image:width" content="750"/>
+<meta property="og:image:height" content="875"/>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100773782-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
  "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand." — Norm Kerth
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
