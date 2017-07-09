@@ -56,7 +56,7 @@ If you truly want to help women in technology, than help them by being honest wh
 
 In my current job, the Infrastructure leader holds a roundtable with his female leaders to get their perspective, input, and advice on how to make the environment safe. This is a great start and a good sign that there is a place for a voice. The next step, I encourage any company to take, is to form an employee ran safe space. While it may sound like a 'union' it is not. This should just be a group of individuals who have no ties to protecting the business. Who are trusted advisors and individuals that can speak up without fear of ruining their reputation. Who could, if needed, submit anonymous feedback that was collected outside of the feedback cycle.
 
-Many days I want to just form a vetted collaborative list of known bully's in this industry, but thats not helpful. Instead, I propose we focus on the people in the time they need it and give them a voice when they feel no one is listening.  For HR, trust your leaders when they feel a PIP is needed, but spend time making sure you see both sides in the lens of for the employee and for the business.
+Many days I want to just form a vetted collaborative list of known bully's in this industry, but thats not helpful. Instead, I propose we focus on the people in the time they need it and give them a voice when they feel no one is listening.  For HR, trust your leaders when they feel a PIP is needed, but spend time making sure you see both sides in the lens of the employee and of the business.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
