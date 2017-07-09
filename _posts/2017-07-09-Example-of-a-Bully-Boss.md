@@ -2,6 +2,7 @@
 layout: post
 title: Bully Bosses and Women
 ---
+As I journey through this incredibly hard time in my industry, I want to make sure people have an opportunity to see what bullying behavior looks like, how it gets received by women and what little options we have.
 
 <meta name="twitter:title" content="Bully Bosses and Women"/>
 <meta name="twitter:image" content="https://s-media-cache-ak0.pinimg.com/736x/98/f3/1d/98f31d9df0c26673a8ca7f5bd901c309.jpg">
@@ -16,7 +17,6 @@ title: Bully Bosses and Women
 <meta property="og:image:width" content="750"/>
 <meta property="og:image:height" content="875"/>
 
-As I journey through this incredibly hard time in my industry, I want to make sure people have an opportunity to see what bullying behavior looks like, how it gets received by women and what little options we have.
 
 Using Performance as a Weapon
 ---
