@@ -85,7 +85,7 @@ Functions can be passed as parameters to other functions
     print name_call(muppet_name)
     # Hello gonzo 
 
-Functions can generate other functions
+Functions can be nested
 
     def compose_a_greeting():
        def the_message():
