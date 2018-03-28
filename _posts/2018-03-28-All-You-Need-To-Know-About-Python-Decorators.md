@@ -12,11 +12,6 @@ That little @ symbol with a function name after it
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_C508EA5D229A366574E86D8CAA2DECC2AEAF4CEC911614815FC011CFD59FD7BB_1522202444611_image.png)
 
 
- 
-
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_C508EA5D229A366574E86D8CAA2DECC2AEAF4CEC911614815FC011CFD59FD7BB_1522202754019_image.png)
-
-
 
 # The Purest Definition
 
