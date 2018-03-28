@@ -1,6 +1,3 @@
-# Python Decorators and How To Use Them
-By: Jennifer Basalone @pennyblackio 
-
 # What Are Python Decorators?
 
 That little @ symbol with a function name after it
@@ -347,3 +344,4 @@ Here we can see function_1() and function_2() prints ‘Your Decorator Functions
 
 Python affords us much flexibility and Decorators stretch the lengths of that flexibility. You can package reusable decorators and apply them to functions, methods, and a whole class. Discovering decorators and the ability to chain them has been really fun and I hope you enjoy learning them too! 
 
+by: Jennifer Basalone @pennyblackio
