@@ -1,5 +1,3 @@
-# All You Need To Know About Python Decorators
-
 # What Are Python Decorators?
 
 That little @ symbol with a function name after it
@@ -46,7 +44,7 @@ I do need to make one assumption here, or rather come to an agreement with you. 
 ## The Key Points You Should Get From Decorators
 - Decorators are reusable chunks of code you can apply to a function, method, or class to modify the behavior without changing the function, method, or class itself. 
 - The ‘@’ symble is just python short hand for calling the decorator on an input function and they are stackable 
-- Debug yoru decorators with [functools.wraps](https://docs.python.org/3/library/functools.html#functools.wraps) helper
+- Debug your decorators with [functools.wraps](https://docs.python.org/3/library/functools.html#functools.wraps) helper
 
 
 # Reminder on Functions
@@ -117,9 +115,9 @@ Inside functions can access the enclosing scope or ‘closure’
     def render_tag(name):
        return name 
        
-    render_tag('llama') 
+    render_tag('cookie monster') 
     
-    # <llama/>
+    # <cookie monster/>
 
 
 # Lets Create a Function Decorator! 
@@ -243,27 +241,6 @@ adding args and kwargs allows us to add any arbitrary number of arguments and ke
 This is for people who want to maintain state or just like to make it a little more complicated. These operate at a higher level and decorate the entire class. Their effect takes place at the class definition time. You can use the decorators to add or remove methods of any decorated class, or apply function decorators to an entire set of methods. 
 
 Examples like this is keeping track of various states of a program or various exceptions that were raised for a program. 
-
-# Examples
-# A Working Example of a Timer 
-    from time import sleep
-    
-    def sleep_decorator(function):
-        '''We are limiting how fast the function is called'''
-        def wrapper(*args, **kwargs):
-           sleep(2)
-           return function(*args, **kwargs)
-        return wrapper 
-    
-    def print_number(num):
-        return num
-    
-    print print_number(222)
-    
-    for num in range(1, 6):
-       print print_number(num)
-       
-    # thanks to realpython.com for the example
 
 
 # An Example of Logging
